@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/App-Weather-Henrry/static/css/main.35188d44.css",
+    "main.js": "/App-Weather-Henrry/static/js/main.94be2e95.js",
+    "static/media/logoReact.png": "/App-Weather-Henrry/static/media/logoReact.a544fd8cf64d82898e91.png",
+    "static/media/logoHtml.png": "/App-Weather-Henrry/static/media/logoHtml.5f77e90e11607bf9b3e1.png",
+    "static/media/nubellorando.webp": "/App-Weather-Henrry/static/media/nubellorando.d38c399c1fa310accdd3.webp",
+    "index.html": "/App-Weather-Henrry/index.html",
+    "main.35188d44.css.map": "/App-Weather-Henrry/static/css/main.35188d44.css.map",
+    "main.94be2e95.js.map": "/App-Weather-Henrry/static/js/main.94be2e95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35188d44.css",
+    "static/js/main.94be2e95.js"
+  ]
+}
